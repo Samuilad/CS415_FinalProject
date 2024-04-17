@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/amanshah/Desktop/415_Final/CS415_FinalProject/ViralVoyage/Content/BluePrints/2D_Player.uasset",
+				"/Users/amanshah/Desktop/415_Final/CS415_FinalProject/ViralVoyage/Content/BluePrints/PowerUp.uasset",
+				"/Users/amanshah/Desktop/415_Final/CS415_FinalProject/ViralVoyage/Content/Level/GameLevel.umap",
 				"E:/UnrealProjects/CS415_FinalProject/ViralVoyage/Content/Assets/RedTCell/redTcellFlipbook.uasset",
 				"E:/UnrealProjects/CS415_FinalProject/ViralVoyage/Content/Assets/RedTCell/redTcell.uasset",
 				"E:/UnrealProjects/CS415_FinalProject/ViralVoyage/Content/Assets/RedTCell/redTcell_Sprite_0.uasset",
